@@ -1,0 +1,303 @@
+{
+  "seller": [
+    {
+      "id": 1,
+      "name": "Hari",
+      "password": "Test@1234",
+      "email": "jj@h.com"
+    },
+    {
+      "name": "Vishal",
+      "password": "Test@1234",
+      "email": "anurag@gmail.com",
+      "id": 2
+    },
+    {
+      "observable": {
+        "name": "bbu",
+        "password": "Test@1234",
+        "email": "mukesh.agr9@gmail.com"
+      },
+      "id": 3
+    },
+    {
+      "name": "grapes",
+      "password": "Test@1234",
+      "email": "mukesh.agr9@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Anamika",
+      "password": "Test@1234",
+      "email": "anamika@test.om",
+      "id": 5
+    },
+    {
+      "name": "bbu",
+      "password": "Test@1234",
+      "email": "test@dd.v",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "password": "Test@1234",
+      "email": "sharma.nishant2@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Vishal",
+      "password": "Test@1234",
+      "email": "jj@h.com",
+      "id": 8
+    },
+    {
+      "name": "Vishal",
+      "password": "Test@1234",
+      "email": "test@gg.com",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung",
+      "price": "20000",
+      "type": "Mobile",
+      "color": "White",
+      "description": "A Samsung Mobile",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m136bdbhins/gallery/in-gakaxy-m13-5g-6gb-sm-m136bdbhins-533152064?$1300_1038_PNG$",
+      "id": 1
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "type": "Mobile",
+      "color": "Black",
+      "description": "Its an i phone",
+      "image": "https://www.myimaginestore.com/media/mf_webp/png/media/catalog/product/cache/0469a4dc62dd6e534a19177e6b269c6b/p/-/p-13.webp",
+      "id": 2
+    },
+    {
+      "name": "Xiomi",
+      "price": "30000",
+      "type": "Mobile",
+      "color": "Blue",
+      "description": "Redmi",
+      "image": "https://m.media-amazon.com/images/I/91As2yaXjfL._UL1500_.jpg",
+      "id": 3
+    },
+    {
+      "name": "HP ",
+      "price": "60000",
+      "type": "Laptop",
+      "color": "Grey",
+      "description": "A hp laptop",
+      "image": "https://www.lenovo.com/medias/ThinkBook-14-Gen-2-Intel-hero.png?context=bWFzdGVyfHJvb3R8NjYwMDh8aW1hZ2UvcG5nfGg2NC9oZjYvMTMwMzMyMzY0NjM2NDYucG5nfDdlZWU5OGJlYzllYWI0OTM2NDcyMjMwYzA4ZmY3OWRjZDFkNTI4NjgxNWJhOGRmNmZlYTE3OWUzODhmOWQyZjM",
+      "id": 4
+    },
+    {
+      "name": "Truck",
+      "price": "1000000",
+      "type": "AutoMobile",
+      "color": "Brown",
+      "description": "A Tata Mahindra Truck",
+      "image": "https://cvimg1.cardekho.com/p/630x420/in/mahindra/supro-maxitruck/mahindra-supro-maxitruck-62845.jpg",
+      "id": 5
+    },
+    {
+      "name": "Car",
+      "price": "600000",
+      "type": "Wagon R",
+      "color": "Grey",
+      "description": "A car",
+      "image": "https://5.imimg.com/data5/BM/MM/MY-28759191/glistening-grey-500x500.png",
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "name": "Vishal",
+      "email": "vishal@test.com",
+      "password": "Test@1234",
+      "id": 1
+    },
+    {
+      "name": "Abhay",
+      "email": "abhay@test.com",
+      "password": "Test@1234",
+      "id": 2
+    },
+    {
+      "name": "Vivek",
+      "email": "vivek@test.com",
+      "password": "Test@1234",
+      "id": 3
+    },
+    {
+      "name": "Anubhav",
+      "email": "anubhav@test.com",
+      "password": "Test@1234",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "Test@test.com",
+      "password": "Test21234",
+      "id": 5
+    },
+    {
+      "name": "W",
+      "email": "w@test.com",
+      "password": "Test@1234",
+      "id": 6
+    },
+    {
+      "name": "wake",
+      "email": "wake@test.com",
+      "password": "Test@1234",
+      "id": 7
+    },
+    {
+      "name": "Hello",
+      "email": "hello@test.com",
+      "password": "Test@1234",
+      "id": 8
+    },
+    {
+      "name": "Dev",
+      "email": "dev@test.com",
+      "password": "Test@1234",
+      "id": 9
+    },
+    {
+      "name": "blck",
+      "email": "blck@test.com",
+      "password": "Test@1234",
+      "id": 10
+    },
+    {
+      "name": "Hari",
+      "email": "hari@gmail.com",
+      "password": "Test@1234",
+      "id": 11
+    },
+    {
+      "name": "php",
+      "email": "php@test.com",
+      "password": "Test@1234",
+      "id": 12
+    },
+    {
+      "name": "bnb",
+      "email": "bnb@test.com",
+      "password": "Test@1234",
+      "id": 13
+    },
+    {
+      "name": "xdf",
+      "email": "xdd@test.com",
+      "password": "Test@1234",
+      "id": 14
+    },
+    {
+      "name": "jhj",
+      "email": "jhj@test.com",
+      "password": "Test@1234",
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "vivek@test.com",
+      "password": "Test@1234",
+      "id": 16
+    }
+  ],
+  "cart": [
+    {
+      "name": "Xiomi",
+      "price": "30000",
+      "type": "Mobile",
+      "color": "Blue",
+      "description": "Redmi",
+      "image": "https://m.media-amazon.com/images/I/91As2yaXjfL._UL1500_.jpg",
+      "quantity": 1,
+      "user_id": 3,
+      "productId": 3,
+      "id": 3
+    },
+    {
+      "name": "Car",
+      "price": "600000",
+      "type": "Wagon R",
+      "color": "Grey",
+      "description": "A car",
+      "image": "https://5.imimg.com/data5/BM/MM/MY-28759191/glistening-grey-500x500.png",
+      "quantity": 1,
+      "user_id": 7,
+      "productId": 6,
+      "id": 8
+    },
+    {
+      "name": "Car",
+      "price": "600000",
+      "type": "Wagon R",
+      "color": "Grey",
+      "description": "A car",
+      "image": "https://5.imimg.com/data5/BM/MM/MY-28759191/glistening-grey-500x500.png",
+      "quantity": 1,
+      "user_id": 3,
+      "productId": 6,
+      "id": 17
+    },
+    {
+      "name": "Xiomi",
+      "price": "30000",
+      "type": "Mobile",
+      "color": "Blue",
+      "description": "Redmi",
+      "image": "https://m.media-amazon.com/images/I/91As2yaXjfL._UL1500_.jpg",
+      "quantity": 1,
+      "user_id": 7,
+      "productId": 3,
+      "id": 19
+    },
+    {
+      "name": "Samsung",
+      "price": "20000",
+      "type": "Mobile",
+      "color": "White",
+      "description": "A Samsung Mobile",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m136bdbhins/gallery/in-gakaxy-m13-5g-6gb-sm-m136bdbhins-533152064?$1300_1038_PNG$",
+      "quantity": 1,
+      "user_id": 7,
+      "productId": 1,
+      "id": 20
+    },
+    {
+      "name": "Truck",
+      "price": "1000000",
+      "type": "AutoMobile",
+      "color": "Brown",
+      "description": "A Tata Mahindra Truck",
+      "image": "https://cvimg1.cardekho.com/p/630x420/in/mahindra/supro-maxitruck/mahindra-supro-maxitruck-62845.jpg",
+      "quantity": 1,
+      "user_id": 3,
+      "productId": 5,
+      "id": 21
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "type": "Mobile",
+      "color": "Black",
+      "description": "Its an i phone",
+      "image": "https://www.myimaginestore.com/media/mf_webp/png/media/catalog/product/cache/0469a4dc62dd6e534a19177e6b269c6b/p/-/p-13.webp",
+      "quantity": 6,
+      "user_id": 3,
+      "productId": 2,
+      "id": 22
+    }
+  ],
+  "orders":[
+    
+  ]
+}
